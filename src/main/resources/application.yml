@@ -1,0 +1,31 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: create
+      show-sql: true
+      properties:
+        hibernate:
+          dialect: org.hibernate.dialect.Mysql8Dialect
+    defer-datasource-initialization: true
+
+  sql:
+    init:
+      mode: always
+
+  datasource:
+    url: jdbc:mysql://timo.cwnloybfrgt5.ap-northeast-2.rds.amazonaws.com:3306/timo?useSSL=false&useUnicode=true&serverTimezone=Asia/Seoul&allowPublicKeyRetrieval=true
+    username:
+    password:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+cloud:
+  aws:
+    credentials:
+      access-key:
+      secret-key:
+    s3:
+      bucket: timo-qr
+    region:
+      static: ap-northeast-2
+    stack:
+      auto: false
