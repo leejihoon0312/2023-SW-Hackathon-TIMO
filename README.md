@@ -43,7 +43,7 @@
 
 | 이름     | 개발분야  | 개인 레포                                         | 이메일                    |
 | -------- | --------- | ------------------------------------------------- | ------------------------- |
-| ✨황보영 | Designer  |                                                   | wlgnsdl1016@kyonggi.ac.kr |
+| ✨황보영 | Designer  |                                                   | hw3237@hanyang.ac.kr |
 | ✨이지훈 | Back-end  | [leejihoon0312](https://github.com/leejihoon0312) | wlgnsdl1016@kyonggi.ac.kr |
 | ✨신종락 | Front-end | [ShinJongRock](https://github.com/ShinJongRock)   | whdfkr0603@gmail.com      |
 | ✨이예지 | Front-end  | [TofuMango](https://github.com/TofuMango) | yjlee0006@cu.ac.kr |
